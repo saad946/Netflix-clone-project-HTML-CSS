@@ -108,7 +108,7 @@ nav button{
     color: white;
     border: 1px solid white;
     background-color: rgba(23, 23, 23, 0.7);
-    width: 240px;
+    width: 280px;
     box-sizing: border-box;
 }
 
@@ -120,7 +120,7 @@ nav button{
     border-radius: 5px;
     font-weight: 400;
     cursor: pointer;
-    width: 140px;
+    width: 162px;
     box-sizing: border-box;
 }
 
